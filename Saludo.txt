@@ -1,2 +1,4 @@
 hola a todos
-Cómo están? 
+Cómo están? export LANG=es_ES.UTF-8
+Espero su saludos 
+Feliz noche
