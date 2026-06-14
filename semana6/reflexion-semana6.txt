@@ -1,0 +1,7 @@
+Es importante que las plataformas tecnológicas puedan recibir reportes de los ciudadanos de forma estructurada porque permite organizar la información de manera clara y eficiente.
+
+Cuando los datos llegan en formato JSON, el servidor puede procesarlos fácilmente y dar respuestas rápidas a las necesidades de la comunidad. Un sistema que recibe información estructurada permite identificar problemas comunes en la comunidad como fallas en servicios públicos, inseguridad o necesidades de infraestructura.
+
+Además, registrar incidencias de forma digital reduce errores y facilita el seguimiento de cada reporte hasta su solución, mejorando la gestion publica y la participación ciudadana.
+
+La tecnología bien usada se convierte en un puente entre los ciudadanos y las instituciones, haciendo mas eficiente la comunicación y la toma de decisiones para el bienestar común.
