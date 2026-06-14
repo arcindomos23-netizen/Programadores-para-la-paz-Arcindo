@@ -1,0 +1,10 @@
+Comando uname -a:
+Muestra información completa del sistema operativo, incluyendo
+el nombre del kernel, version, arquitectura y fecha de compilación.
+Es util para conocer que sistema operativo corre en el servidor
+y verificar si esta actualizado.
+
+Comando whoami:
+Muestra el nombre del usuario actual que esta ejecutando la terminal.
+Es util para saber con que permisos se esta trabajando en el servidor
+y verificar si se esta como usuario normal o administrador.
