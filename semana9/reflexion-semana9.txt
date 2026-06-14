@@ -1,0 +1,8 @@
+Es importante que las plataformas tecnológicas funcionen de manera estable y segura porque muchas comunidades dependen de ellas para
+acceder a servicios esenciales como educación, salud y comunicación. Un servidor inestable puede interrumpir el acceso a información
+critica en momentos donde mas se necesita, afectando la calidad
+de esenciales de las personas.
+
+La seguridad es fundamental para proteger los datos personales de los usuarios y evitar que terceros accedan a información privada
+de la comunidad sin autorización. Mantener servidores estables y seguros genera confianza en los usuarios y permite que la tecnología 
+sea una herramienta real de transformación social para las comunidades.
