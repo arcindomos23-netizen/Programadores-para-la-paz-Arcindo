@@ -1,0 +1,27 @@
+Al enviar una peticion POST a http://localhost:3000/reportes
+con el siguiente JSON:
+{
+  "tipo": "Infraestructura",
+  "descripción": "Daño en alumbrado publico"
+}
+
+El servidor responde:
+{
+  "mensaje": "Reporte registrado",
+  "reporte": {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripción": "Daño en alumbrado publico"
+  }
+}
+
+Al consultar GET http://localhost:3000/reportes el servidor
+devuelve la lista de todos los reportes registrados:
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripción": "Daño en alumbrado publico"
+  }
+]
+
